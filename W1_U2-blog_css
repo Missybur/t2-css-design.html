@@ -1,0 +1,43 @@
+@import 'more-styles.css' ;
+
+h2	{
+	font-color: #0040FF;
+	padding-bottom: 10px;
+	border-bottom: 2px;
+}
+
+h1	{
+	color: #0040FF;
+	padding-bottom: 10px;
+	border-bottom: 2px;
+}
+
+ul	{
+	color: #58ACFA;
+	background-color: #CEECF5; 
+}
+
+*	{
+	background-color: #66FFFF;
+	text-align: center;
+	font-color: #0066FF
+}
+
+div {
+	margin: 30px;
+	border:1px solid black;
+	background color: #0066FF;
+
+}
+
+p	{
+	text-align: center;
+	font: ;
+	font-color: #0066FF;
+}
+
+.border_social_media	{
+	text-align: center;
+	property: inline-block;
+
+}
